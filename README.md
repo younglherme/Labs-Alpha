@@ -1,16 +1,23 @@
-# React + Vite
+# 🚀 Grupo 1 - Labs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de apresentação da equipe desenvolvido durante o **Labs G1**. Focado em uma interface moderna, segura e responsiva.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologias Utilizadas
+- **React.js**: Biblioteca principal para interface.
+- **Tailwind CSS v4**: Estilização de alto nível com motor de última geração.
+- **Vite**: Ferramenta de build ultra-rápida.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Diferenciais do Projeto
+- **Glassmorphism UI**: Cards com efeito de vidro jateado e desfoque de fundo.
+- **Responsividade Total**: Layout adaptável para Mobile, Tablet e Desktop.
+- **Segurança de Dados**: Estrutura preparada para expansão com foco em Cybersecurity.
 
-## React Compiler
+## 👥 Integrantes
+- **Tulani Souza**: Desenvolvedora FullStack, Ethical Hacker & Gestora de Tecnologia da Informação.
+- [Integrante do grupo]: [Cargo/Função].
+- [Integrante do grupo]: [Cargo/Função].
+- [Integrante do grupo]: [Cargo/Função].
+- [Integrante do grupo]: [Cargo/Função].
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Apresentação agendada para: Quinta-feira, 26/03/2026.*compiler/installation).
