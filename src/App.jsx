@@ -40,14 +40,6 @@ function App() {
     //   descricao: "X",
     //   linkedin: "ENDEREÇO",
     //   github: "ENDEREÇO"
-    // },
-    // {
-    //   id: 5,
-    //   nome: "x",
-    //   foto: x,
-    //   descricao: "X",
-    //   linkedin: "ENDEREÇO",
-    //   github: "ENDEREÇO"
     // }
   ];
 
