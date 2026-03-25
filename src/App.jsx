@@ -33,14 +33,14 @@ function App() {
       linkedin: "https://www.linkedin.com/in/stellabezerra",
       github: "https://github.com/Stella-Bezerra",
     },
-    // {
-    //   id: 4,
-    //   nome: "x",
-    //   foto: x,
-    //   descricao: "X",
-    //   linkedin: "ENDEREÇO",
-    //   github: "ENDEREÇO"
-    // },
+     {
+      id: 4,
+      nome: "Isabela Viana",
+      foto: isabela,
+      descricao: "Desenvolvedora Full Stack Web | Automação",
+      linkedin: "https://www.linkedin.com/in/isabela-viana-11b27638a/",
+      github: "https://github.com/yisasz/"
+     },
     // {
     //   id: 5,
     //   nome: "x",
