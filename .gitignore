@@ -22,3 +22,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local env files 
+.env
+.env.local
+.env.*.local
+
+# Vite/Build
+dist/
+dist-ssr/
+*.local
+
+# Tailwind / CSS Cache
+.cache/
+.parcel-cache/
+
+# Dependências 
+node_modules/
+
+# Testes
+/coverage
