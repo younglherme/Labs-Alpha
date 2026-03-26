@@ -14,7 +14,7 @@ function App() {
       nome: "Tulani Souza",
       foto: Tulani,
       descricao:
-        "Desenvolvedora FullStack | Cybersecurity & Ethical Hacking | Gestora de TI",
+        "Desenvolvedora Full-Stack | Cybersecurity & Ethical Hacking | Gestora de TI",
       linkedin: "https://www.linkedin.com/in/tulani-souza",
       github: "https://github.com/tulanisouza",
     },
@@ -54,14 +54,14 @@ function App() {
       <div className="relative z-8 max-w-7xl mx-auto p-6 md:p-10">
         <header className="text-center mb-10">
           <h1 className="text-5xl md:text-6xl font-extrabold text-white drop-shadow-lg tracking-tighter">
-            Grupo 1 - <span className="text-blue-400">Labs</span>
+            Grupo 1 - <span className="text-blue-400">Labs Alpha</span>
           </h1>
           <p className="mt-4 text-xl text-gray-200">
-            Inovação e Performance: Conheça os talentos por trás do G1 Labs.
+            Inovação e Performance: Conheça os talentos por trás do Labs Alpha.
           </p>
         </header>
 
-        <main className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 items-stretch max-w-7xl mx-auto">
+        <main className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 items-stretch max-w-7xl mx-auto">
           {equipe.map((membro) => (
             <div
               key={membro.id}
@@ -72,6 +72,8 @@ function App() {
                 <img
                   src={membro.foto}
                   alt={membro.nome}
+                  onContextMenu={(e) => e.preventDefault()}
+                  onError={(e) => { e.target.src = imgFundoLabs; }}
                   className="relative w-33 h-33 rounded-full object-cover border-2 border-white/20 shadow-inner"
                 />
               </div>
@@ -93,6 +95,7 @@ function App() {
                   <img
                     src={Linkedin}
                     alt="LinkedIn"
+                    onContextMenu={(e) => e.preventDefault()}
                     className="h-6 w-6 object-contain opacity-70 group-hover:opacity-100"
                   />
                 </a>
