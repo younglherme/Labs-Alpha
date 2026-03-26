@@ -1,22 +1,30 @@
-# 🚀 Grupo 1 - Labs Alpha
+# Grupo 1 - Labs Alpha
 
-Projeto de apresentação da equipe desenvolvido durante o **Labs G1**. Focado em uma interface moderna, segura e responsiva.
+Repositório oficial da equipe **Labs Alpha**, desenvolvido para o desafio de performance e inovação. Este projeto entrega uma interface de alta fidelidade com foco em experiência do usuário (UX) e segurança.
 
-## 🛠️ Tecnologias Utilizadas
-- **React.js**: Biblioteca principal para interface.
-- **Tailwind CSS v4**: Estilização de alto nível com motor de última geração.
-- **Vite**: Ferramenta de build ultra-rápida.
+## Stack Tecnológica
+* **Core:** React.js + Vite (Build ultra-rápida).
+* **Styling:** Tailwind CSS v4 (Engine de última geração).
+* **Deployment:** Preparado para Vercel
+* **DevOps:** Versionamento semântico via Git/GitHub.
 
-## ✨ Diferenciais do Projeto
-- **Glassmorphism UI**: Cards com efeito de vidro jateado e desfoque de fundo.
-- **Responsividade Total**: Layout adaptável para Mobile, Tablet e Desktop.
-- **Segurança de Dados**: Estrutura preparada para expansão com foco em Cybersecurity.
+## High-Tech Features
+* **Glassmorphism Glass:** Interface moderna com desfoque de fundo (backdrop-blur) e transparência.
+* **Responsividade Adaptativa:** Experiência fluida de telas 4k até dispositivos mobile antigos.
+* **Cybersecurity Mindset:** Código limpo, auditoria de dependências (`npm audit`) com 0 vulnerabilidades e gestão de metadados.
 
-## 👥 Integrantes
-- **Tulani Souza**: Desenvolvedora FullStack, Ethical Hacker & Gestora de Tecnologia da Informação.
-- **Guilherme Silva**: Desenvolvedor Backend (Full-Stack).
-- **Stella Bezerra**: Scrum  Master | Gestão de Projeto | Agilista | Transformação Digital.
-- **Isabela Viana**: Desenvolvedora Full Stack Web | Automação.
+## Squad
+| Integrante | Role Principal | Especialidade |
+| :--- | :--- | :--- |
+| **Tulani Souza** | FullStack & Security | Ethical Hacking & IT Management |
+| **Guilherme Silva** | Backend | Full-Stack Development |
+| **Stella Bezerra** | Scrum Master | Agile & Digital Transformation |
+| **Isabela Viana** | FullStack | Web Automation |
+
+## 🚀 Como Rodar o Projeto
+1. Clone o repositório: `git clone https://github.com/younglherme/Grupo1-Labs.git`
+2. Instale as dependências: `npm install`
+3. Inicie o servidor: `npm run dev`
 
 ---
-*Apresentação agendada para: Quinta-feira, 26/03/2026.*compiler/installation).
+*Apresentação: 26 de Março de 2026 às 19:00h.*
